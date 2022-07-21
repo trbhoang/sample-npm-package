@@ -1,0 +1,23 @@
+{
+  "name": "@trbhoang/test-package",
+  "version": "1.0.0",
+  "description": "test publishing packages on Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trbhoang/test-package.git"
+  },
+  "keywords": [
+    "package",
+    "github"
+  ],
+  "author": "Hoang Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trbhoang/test-package/issues"
+  },
+  "homepage": "https://github.com/trbhoang/test-package#readme"
+}
