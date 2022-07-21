@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/trbhoang/test-package/issues"
   },
-  "homepage": "https://github.com/trbhoang/test-package#readme"
+  "homepage": "https://github.com/trbhoang/test-package#readme",
+  "publishConfig": {
+    "@trbhoang:registry": "https://npm.pkg.github.com"
+  }
 }
