@@ -1,25 +1,26 @@
 {
-  "name": "@trbhoang/test-package",
+  "name": "@trbhoang/sample-npm-package",
   "version": "1.0.0",
-  "description": "test publishing packages on Github",
+  "description": "Sample npm package published on Github Packages Registry",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trbhoang/test-package.git"
+    "url": "git+https://github.com/trbhoang/sample-npm-package.git"
   },
   "keywords": [
     "package",
-    "github"
+    "github",
+    "npm"
   ],
   "author": "Hoang Tran",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/trbhoang/test-package/issues"
+    "url": "https://github.com/trbhoang/sample-npm-package/issues"
   },
-  "homepage": "https://github.com/trbhoang/test-package#readme",
+  "homepage": "https://github.com/trbhoang/sample-npm-package#readme",
   "publishConfig": {
     "@trbhoang:registry": "https://npm.pkg.github.com"
   }

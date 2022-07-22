@@ -1,2 +1,3 @@
-# test-package
-test publishing packages on github
+# Sample NPM package
+
+Sample NPM package published on Github Packages Registry
